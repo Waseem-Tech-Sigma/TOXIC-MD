@@ -1,6 +1,6 @@
 # TOXIC-MD – Bot Base Script
 
-**Repository:** [https://github.com/Waseem-Tech-Sigma/TOXIC-MD)
+**Repository:** [https://github.com/Waseem-Tech-Sigma/TOXIC-AI)
 
 ---
 
@@ -9,16 +9,12 @@
 This is the **bot base script**, created by LEGEND WASEEM.  
 It serves as a foundation for building bots that handle session IDs and automate sharing links.
 
-The **session ID link** below is provided as a reference and example to use with the bot:
+## 🔰🔰THIS IS JUST MY DATA!!!
+## GO TO ORIGINAL BOT TO DEPLOY.🔰🔰
+**Repository:** [https://github.com/Waseem-Tech-Sigma/TOXIC-AI)
 
-**Session Link Reference:**  
-[SESSION LINK HERE)
 
----
-
-SESSION_ID REPO BASE
-AND HERE
 
 ## 🚀 Getting Started
 
-
+©*POWERED BY LEGEND WASEEM*
