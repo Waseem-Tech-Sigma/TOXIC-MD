@@ -96,7 +96,7 @@ ${menu.fun || '│ (No commands found)'}
         );
 
         await conn.sendMessage(from, {
-            audio: fs.readFileSync('./all/menu.m4a'),
+            audio: fs.readFileSync('./media/menusong.js.aac'),
             mimetype: 'audio/mp4',
             ptt: true
         }, { quoted: mek });
